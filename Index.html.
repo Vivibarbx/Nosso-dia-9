@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nosso dia 9 </title>
+  <title>Nosso dia 09 🤍</title>
   <style>
     body {
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-image: url('nebulosa.jpg'); /IMG_70455/
+      background-image: url('IMG_0755.jpeg'); /* Caminho correto da imagem */
       background-size: cover;
       background-position: center;
       background-attachment: fixed;
@@ -31,7 +31,7 @@
   </style>
 </head>
 <body>
-  <h1>Nosso dia 9 </h1>
+  <h1>Bem-vindo ao nosso mapa estelar 💫</h1>
   <p>Click nas estrelas para ver mais!</p>
 </body>
 </html>
